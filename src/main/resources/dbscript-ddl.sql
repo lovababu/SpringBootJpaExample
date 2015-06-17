@@ -1,0 +1,1 @@
+CREATE TABLE candidates (id NUMERIC(5), first_name VARCHAR2(20), last_name VARCHAR(20), email VARCHAR2(15), phone VARCHAR2(10));
